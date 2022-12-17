@@ -106,7 +106,7 @@ function App() {
               <th>Modelo</th>
               <th>Marca</th>
               <th>Ano</th>
-              <th>Ação</th>
+              <th></th>
             </tr>
           </thead>
           <tbody>
